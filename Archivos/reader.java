@@ -18,7 +18,7 @@ import java.io.OutputStreamWriter;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-public class OpenFiles {
+public class reader {
 	
 	 public ArrayList<ArrayList<String>> leer_txt(String ruta) {
 	        // StringBuilder sb = new StringBuilder();
