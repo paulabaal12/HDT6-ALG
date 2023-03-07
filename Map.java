@@ -1,4 +1,4 @@
-package Funciones;
+
 
 public class Map extends MFactory{
 

@@ -1,8 +1,7 @@
-package Funciones;
 
 import java.util.ArrayList;
 
-public class TreeMap implements Imap {
+public class LinkedHashMap implements Imap {
 
     @Override
     public String agregarProducto(String Categoria, String Producto) {
@@ -45,5 +44,5 @@ public class TreeMap implements Imap {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'llenardatos'");
     }
-    
+
 }
